@@ -3,8 +3,8 @@ import React from "react";
 function About() {
 
   return (
-    <div>
-      <h1>About Page</h1>
+    <div className="w-5xl py-8 text-lg mx-auto text-left">
+      <h1>This is About Page</h1>
     </div>
   );
 }
